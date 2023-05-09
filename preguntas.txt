@@ -1,0 +1,2 @@
+1. Como hacer que al ingresar la información por el input (stdin.on o readline) el programa se detenga ahí antes de continuar con las demás ejecuciones. 
+2. combinar lo anterior con el dowhile sin que caiga en un bucle, es decir, que al pedir el input por consola dhaga el timing.
